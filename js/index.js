@@ -86,7 +86,7 @@ function setErrorFor(input, message){ //the input is the username and the messag
 function setSuccessFor(input){ //the input is the username and the message is the string beside it
   const formControl = input.parentElement; // .form-control
   
-  //Adding the error class
+  //Adding the Error class
   formControl.className = 'form-control success';
 } 
 
