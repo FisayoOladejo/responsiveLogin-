@@ -5,5 +5,4 @@
 * CSS
 * JAVASCRIPT
 ---
-## Author
-### Fisayo Oladejo A.K.A Bishop
+## Author: Fisayo Oladejo A.K.A Bishop
